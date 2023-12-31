@@ -1,3 +1,8 @@
+.tabbed-block p img {
+  -webkit-filter: drop-shadow(0px 0px 5px #111);
+  filter: drop-shadow(0px 0px 5px #111);
+}
+
 .infobox {
   text-size-adjust: 100%;
   text-shadow: 1px 1px 1px black;
