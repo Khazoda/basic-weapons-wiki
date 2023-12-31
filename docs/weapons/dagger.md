@@ -1,28 +1,27 @@
 # Dagger
 
 !!! example inline end ""
-    <center class="infobox">
-    ### Wooden Dagger
-    ![Wooden dagger icon](/assets/weapons/wooden_dagger.png)<br>
-    Yeah
 
-    ### Stone Dagger
-    ![Wooden dagger icon](/assets/weapons/stone_dagger.png)<br>
-    Yeah
+    === "Wooden"
+        ![Wooden dagger icon](/assets/weapons/wooden_dagger.png)
+        Durability | 59
+        Damage | X Hearts
+    === "Stone"
 
-    ### Iron Dagger
-    ![Wooden dagger icon](/assets/weapons/iron_dagger.png)<br>
-    Yeah
+        ![Wooden dagger icon](/assets/weapons/stone_dagger.png)
 
-    ### Golden Dagger
-    ![Wooden dagger icon](/assets/weapons/golden_dagger.png)<br>
-    Yeah
+    === "Iron"
 
-    ### Diamond Dagger
-    ![Wooden dagger icon](/assets/weapons/diamond_dagger.png)<br>
-    Yeah
+        ![Wooden dagger icon](/assets/weapons/iron_dagger.png)
 
-    ### Netherite Dagger
-    ![Wooden dagger icon](/assets/weapons/netherite_dagger.png)<br>
-    Yeah
-    </center>
+    === "Golden"
+
+        ![Wooden dagger icon](/assets/weapons/golden_dagger.png)
+
+    === "Diamond"
+
+        ![Wooden dagger icon](/assets/weapons/diamond_dagger.png)
+
+    === "Netherite"
+
+        ![Wooden dagger icon](/assets/weapons/netherite_dagger.png)
