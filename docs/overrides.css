@@ -7,6 +7,10 @@
   flex-flow: wrap;
   justify-content: center;
 }
-.tabbed-labels label {
-  padding: 0.5em 0.5em 0.5em !important;
+.md-typeset .tabbed-labels--linked > label {
+  padding: 0.5em 0.5em 0.5em;
+}
+
+.md-typeset .tabbed-labels > label {
+  padding: 0.5em 0.5em 0.5em;
 }
