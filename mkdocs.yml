@@ -19,13 +19,18 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
-      
+  - abbr
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 theme: 
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
   icon:
     repo: fontawesome/brands/github
+    
   palette: 
 
     # Palette toggle for light mode
@@ -56,4 +61,5 @@ theme:
     - search.share
     - navigation.top
     - content.code.annotate
+    - content.tooltips
   

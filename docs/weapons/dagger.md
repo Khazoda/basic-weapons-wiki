@@ -1,15 +1,17 @@
 # Dagger
 
-!!! example inline end ""
+!!! example annotate inline end ""
 
     === "Wooden"
         ![Wooden dagger icon](../assets/weapons/wooden_dagger.png)
 
-        | Damage     | X (Hearts) |
-        | ---------- | -------------- |
-        | Speed      | 2              |
-        | Reach      | 5              |
-        | Durability | 72             |
+        | Damage                                         | X (Hearts) |
+        | ---------------------------------------------- | ---------- |
+        | Speed                                          | 2          |
+        | Reach [:material-information-outline:][bcombat] | 5          |
+        | Durability                                     | 72         |
+        | Special                                        | N/A        |
+
 
     === "Stone"
 
@@ -30,3 +32,5 @@
     === "Netherite"
 
         ![Wooden dagger icon](../assets/weapons/netherite_dagger.png)
+
+[bcombat]: https://modrinth.com/mod/better-combat"Active with Better Combat installed"
