@@ -2,12 +2,18 @@ site_name: Basic Weapons Wiki
 site_url: https://example.com/
 repo_url: https://github.com/Khazoda/basic-weapons
 repo_name: basic weapons
-
 nav:
   - Home: index.md
   - Weapons: 
     - weapons/hammer.md
     - weapons/dagger.md
+extra_css:
+    - overrides.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 theme: 
   name: material
@@ -45,3 +51,4 @@ theme:
     - search.share
     - navigation.top
     - content.code.annotate
+  

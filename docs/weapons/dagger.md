@@ -1,17 +1,28 @@
 # Dagger
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+!!! example inline end ""
+    <center class="infobox">
+    ### Wooden Dagger
+    ![Wooden dagger icon](/assets/weapons/wooden_dagger.png)<br>
+    Yeah
 
-## Commands
+    ### Stone Dagger
+    ![Wooden dagger icon](/assets/weapons/stone_dagger.png)<br>
+    Yeah
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+    ### Iron Dagger
+    ![Wooden dagger icon](/assets/weapons/iron_dagger.png)<br>
+    Yeah
 
-## Project layout
+    ### Golden Dagger
+    ![Wooden dagger icon](/assets/weapons/golden_dagger.png)<br>
+    Yeah
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    ### Diamond Dagger
+    ![Wooden dagger icon](/assets/weapons/diamond_dagger.png)<br>
+    Yeah
+
+    ### Netherite Dagger
+    ![Wooden dagger icon](/assets/weapons/netherite_dagger.png)<br>
+    Yeah
+    </center>
