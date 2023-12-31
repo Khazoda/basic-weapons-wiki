@@ -5,10 +5,14 @@ repo_name: basic weapons
 
 nav:
   - Home: index.md
-  - Weapons: weapons.md
+  - Weapons: 
+    - weapons/hammer.md
+    - weapons/dagger.md
+
 theme: 
   name: material
   logo: assets/logo.png
+  favicon: assets/logo.png
   icon:
     repo: fontawesome/brands/github
   palette: 
@@ -35,3 +39,9 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
+    - navigation.indexes
+    - navigation.expand
+    - search.suggest
+    - search.share
+    - navigation.top
+    - content.code.annotate
