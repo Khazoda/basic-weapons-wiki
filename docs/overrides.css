@@ -1,6 +1,6 @@
 .tabbed-block p img {
-  -webkit-filter: drop-shadow(0px 0px 5px #111);
-  filter: drop-shadow(0px 0px 5px #111);
+  -webkit-filter: drop-shadow(0px 0px 5px rgba(2, 2, 2, 0.5));
+  filter: drop-shadow(0px 0px 5px rgba(2, 2, 2, 0.5));
 }
 
 .infobox {
