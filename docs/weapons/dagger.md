@@ -4,8 +4,13 @@
 
     === "Wooden"
         ![Wooden dagger icon](../assets/weapons/wooden_dagger.png)
-        Durability | 59
-        Damage | X Hearts
+
+        | Damage     | X (Hearts) |
+        | ---------- | -------------- |
+        | Speed      | 2              |
+        | Reach      | 5              |
+        | Durability | 72             |
+
     === "Stone"
 
         ![Wooden dagger icon](../assets/weapons/stone_dagger.png)
