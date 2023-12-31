@@ -8,13 +8,13 @@
   justify-content: center;
 }
 .md-typeset .tabbed-labels--linked > label {
-  padding: 0.5em 0.5em 0.5em;
+  padding: 0.35em 0.5em 0.35em;
 }
 
 .md-typeset .tabbed-labels > label {
-  padding: 0.5em 0.5em 0.5em;
+  padding: 0.35em 0.5em 0.35em;
 }
 
 .md-typeset .tabbed-labels--linked > label > a {
-  padding: 0.5em 0.5em 0.5em;
+  padding: 0em;
 }
