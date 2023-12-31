@@ -14,3 +14,7 @@
 .md-typeset .tabbed-labels > label {
   padding: 0.5em 0.5em 0.5em;
 }
+
+.md-typeset .tabbed-labels--linked > label > a {
+  padding: 0.5em 0.5em 0.5em;
+}
