@@ -11,6 +11,8 @@ nav:
     - weapons/club.md
     - weapons/quarterstaff.md
     - weapons/spear.md
+  - Contributing:
+    - contributing/index.md
 
 extra:
   social:
