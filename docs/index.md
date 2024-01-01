@@ -1,10 +1,31 @@
+---
+title: Introduction
+site_description: Find detailed information on the Basic Weapons mod for Minecraft.
+---
+
 # Introduction
 
 Vanilla Minecraft boasts two distinct melee weapons, the [sword](https://minecraft.wiki/w/Sword) and the [axe](https://minecraft.wiki/w/Axe). [Basic Weapons](https://modrinth.com/mod/basic-weapons) looks to expand on these two weapons with _5_ new offerings which have a distinct playstyle and optimal use scenario, much like vanilla weapons.
 
 ## What weapons are there?
 
-Basic Weapons adds 5 new weapons: <br/> [Dagger](weapons/dagger.md) | [Hammer](weapons/hammer.md) | [Club](weapons/club.md) | [Quarterstaff](weapons/quarterstaff.md) | [Spear](weapons/spear.md)
+Basic Weapons adds 5 new weapons
+
+<div class="grid cards" markdown>
+
+- <span class="grid-element">![Dagger Icon](../assets/weapons/iron_dagger.png){ width="40" }[Dagger :material-arrow-right:](weapons/dagger.md)</span>
+- <span class="grid-element">![Hammer Icon](../assets/weapons/iron_hammer.png){ width="40" }[Hammer :material-arrow-right:](weapons/hammer.md)</span>
+- <span class="grid-element">![Club Icon](../assets/weapons/iron_club.png){ width="40" }[Club :material-arrow-right:](weapons/club.md)</span>
+- <span class="grid-element">![Quarterstaff Icon](../assets/weapons/iron_quarterstaff.png){ width="40" }[Quarterstaff :material-arrow-right:](weapons/quarterstaff.md)</span>
+- <span class="grid-element">![Spear Icon](../assets/weapons/iron_spear.png){ width="40" }[Spear :material-arrow-right:](weapons/spear.md)</span>
+
+<!-- - :fontawesome-brands-html5: [Dagger](weapons/dagger.md)
+- :fontawesome-brands-js: [Hammer](weapons/hammer.md)
+- :fontawesome-brands-css3: [Club](weapons/club.md)
+- :fontawesome-brands-internet-explorer: [Quarterstaff](weapons/quarterstaff.md)
+- ![Netherite dagger icon](../assets/weapons/golden_spear.png){ width="20" }[Spear](weapons/spear.md){ align="middle" } -->
+
+</div>
 
 ## Which weapon should I use?
 
