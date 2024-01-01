@@ -6,8 +6,16 @@ repo_name: basic weapons
 nav:
   - Home: index.md
   - Weapons: 
-    - weapons/hammer.md
     - weapons/dagger.md
+    - weapons/hammer.md
+    - weapons/club.md
+    - weapons/quarterstaff.md
+    - weapons/spear.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/Khazoda
 extra_css:
     - overrides.css
 
@@ -63,4 +71,5 @@ theme:
     - navigation.top
     - content.code.annotate
     - content.tooltips
+    - navigation.footer
   
