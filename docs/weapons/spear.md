@@ -3,75 +3,76 @@
 !!! example annotate inline end ""
 
     === "Wooden"
-        ![Wooden spear icon](../assets/weapons/wooden_spear.png)
+         <center>![Wooden spear icon](../assets/weapons/wooden_spear.png)
 
-        | Damage                                          | 3          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.2        |
-        | Reach [:material-information-outline:][bcombat] | 4.0        |
-        | Durability                                      | 59         |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                             | 3    |
+        | -------------------------------------------------- | ---- |
+        | Speed                                              | 1.2  |
+        | Reach [:material-information-outline:][bcombat]    | 4.0  |
+        | Durability                                         | 59   |
+        | Special                                            | N/A  |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual |
 
 
     === "Stone"
 
-        ![Stone spear icon](../assets/weapons/stone_spear.png)
+         <center>![Stone spear icon](../assets/weapons/stone_spear.png)
 
-        | Damage                                          | 4          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.2        |
-        | Reach [:material-information-outline:][bcombat] | 4.0        |
-        | Durability                                      | 131        |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                             | 4    |
+        | -------------------------------------------------- | ---- |
+        | Speed                                              | 1.2  |
+        | Reach [:material-information-outline:][bcombat]    | 4.0  |
+        | Durability                                         | 131  |
+        | Special                                            | N/A  |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual |
 
     === "Iron"
 
-        ![Iron spear icon](../assets/weapons/iron_spear.png)
+         <center>![Iron spear icon](../assets/weapons/iron_spear.png)
 
-        | Damage                                          | 5          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.2        |
-        | Reach [:material-information-outline:][bcombat] | 4.0        |
-        | Durability                                      | 250        |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                             | 5    |
+        | -------------------------------------------------- | ---- |
+        | Speed                                              | 1.2  |
+        | Reach [:material-information-outline:][bcombat]    | 4.0  |
+        | Durability                                         | 250  |
+        | Special                                            | N/A  |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual |
 
     === "Golden"
 
-        ![Golden spear icon](../assets/weapons/golden_spear.png)
+         <center>![Golden spear icon](../assets/weapons/golden_spear.png)
 
-        | Damage                                          | 3          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.2        |
-        | Reach [:material-information-outline:][bcombat] | 4.0        |
-        | Durability                                      | 32         |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                             | 3    |
+        | -------------------------------------------------- | ---- |
+        | Speed                                              | 1.2  |
+        | Reach [:material-information-outline:][bcombat]    | 4.0  |
+        | Durability                                         | 32   |
+        | Special                                            | N/A  |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual |
 
     === "Diamond"
 
-        ![Diamond spear icon](../assets/weapons/diamond_spear.png)
+         <center>![Diamond spear icon](../assets/weapons/diamond_spear.png)
 
-        | Damage                                          | 6          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.2        |
-        | Reach [:material-information-outline:][bcombat] | 4.0        |
-        | Durability                                      | 1561       |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                             | 6    |
+        | -------------------------------------------------- | ---- |
+        | Speed                                              | 1.2  |
+        | Reach [:material-information-outline:][bcombat]    | 4.0  |
+        | Durability                                         | 1561 |
+        | Special                                            | N/A  |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual |
 
     === "Netherite"
 
-        ![Netherite spear icon](../assets/weapons/netherite_spear.png)
+         <center>![Netherite spear icon](../assets/weapons/netherite_spear.png)
 
-        | Damage                                          | 7          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.2        |
-        | Reach [:material-information-outline:][bcombat] | 4.0        |
-        | Durability                                      | 2031       |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                             | 7    |
+        | -------------------------------------------------- | ---- |
+        | Speed                                              | 1.2  |
+        | Reach [:material-information-outline:][bcombat]    | 4.0  |
+        | Durability                                         | 2031 |
+        | Special                                            | N/A  |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual |
 
 [bcombat]: #"Active with Better Combat installed"
+[bcombatwielding]: #"Dual-wielding only applies with Better Combat installed"

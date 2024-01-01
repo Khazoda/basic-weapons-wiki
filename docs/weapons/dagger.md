@@ -3,75 +3,76 @@
 !!! example annotate inline end ""
 
     === "Wooden"
-        ![Wooden dagger icon](../assets/weapons/wooden_dagger.png)
+        <center>![Wooden dagger icon](../assets/weapons/wooden_dagger.png)
 
-        | Damage                                          | 2          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 2          |
-        | Reach [:material-information-outline:][bcombat] | 2.25       |
-        | Durability                                      | 59         |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | One-handed |
+        | Damage                                                     | 2      |
+        | ---------------------------------------------------------- | ------ |
+        | Speed                                                      | 2      |
+        | Reach [:material-information-outline:][bcombat]            | 2.25   |
+        | Durability                                                 | 59     |
+        | Special                                                    | N/A    |
+        | Wielding [:material-information-outline:][bcombatwielding] | Single |
 
 
     === "Stone"
 
-        ![Stone dagger icon](../assets/weapons/stone_dagger.png)
+         <center>![Stone dagger icon](../assets/weapons/stone_dagger.png)
 
-        | Damage                                          | 3          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 2          |
-        | Reach [:material-information-outline:][bcombat] | 2.25       |
-        | Durability                                      | 131        |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | One-handed |
+        | Damage                                                     | 3      |
+        | ---------------------------------------------------------- | ------ |
+        | Speed                                                      | 2      |
+        | Reach [:material-information-outline:][bcombat]            | 2.25   |
+        | Durability                                                 | 131    |
+        | Special                                                    | N/A    |
+        | Wielding [:material-information-outline:][bcombatwielding] | Single |
 
     === "Iron"
 
-        ![Iron dagger icon](../assets/weapons/iron_dagger.png)
+         <center>![Iron dagger icon](../assets/weapons/iron_dagger.png)
 
-        | Damage                                          | 4          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 2          |
-        | Reach [:material-information-outline:][bcombat] | 2.25       |
-        | Durability                                      | 250        |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | One-handed |
+        | Damage                                                     | 4      |
+        | ---------------------------------------------------------- | ------ |
+        | Speed                                                      | 2      |
+        | Reach [:material-information-outline:][bcombat]            | 2.25   |
+        | Durability                                                 | 250    |
+        | Special                                                    | N/A    |
+        | Wielding [:material-information-outline:][bcombatwielding] | Single |
 
     === "Golden"
 
-        ![Golden dagger icon](../assets/weapons/golden_dagger.png)
+         <center>![Golden dagger icon](../assets/weapons/golden_dagger.png)
 
-        | Damage                                          | 1          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 3          |
-        | Reach [:material-information-outline:][bcombat] | 2.25       |
-        | Durability                                      | 32         |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | One-handed |
+        | Damage                                                     | 1      |
+        | ---------------------------------------------------------- | ------ |
+        | Speed                                                      | 3      |
+        | Reach [:material-information-outline:][bcombat]            | 2.25   |
+        | Durability                                                 | 32     |
+        | Special                                                    | N/A    |
+        | Wielding [:material-information-outline:][bcombatwielding] | Single |
 
     === "Diamond"
 
-        ![Diamond dagger icon](../assets/weapons/diamond_dagger.png)
+         <center>![Diamond dagger icon](../assets/weapons/diamond_dagger.png)
 
-        | Damage                                          | 5          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 2          |
-        | Reach [:material-information-outline:][bcombat] | 2.25       |
-        | Durability                                      | 1561       |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | One-handed |
+        | Damage                                                     | 5      |
+        | ---------------------------------------------------------- | ------ |
+        | Speed                                                      | 2      |
+        | Reach [:material-information-outline:][bcombat]            | 2.25   |
+        | Durability                                                 | 1561   |
+        | Special                                                    | N/A    |
+        | Wielding [:material-information-outline:][bcombatwielding] | Single |
 
     === "Netherite"
 
-        ![Netherite dagger icon](../assets/weapons/netherite_dagger.png)
+         <center>![Netherite dagger icon](../assets/weapons/netherite_dagger.png)
 
-        | Damage                                          | 6          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 2          |
-        | Reach [:material-information-outline:][bcombat] | 2.25       |
-        | Durability                                      | 2031       |
-        | Special                                         | N/A        |
-        | Grip [:material-information-outline:][bcombat]  | One-handed |
+        | Damage                                                     | 6      |
+        | ---------------------------------------------------------- | ------ |
+        | Speed                                                      | 2      |
+        | Reach [:material-information-outline:][bcombat]            | 2.25   |
+        | Durability                                                 | 2031   |
+        | Special                                                    | N/A    |
+        | Wielding [:material-information-outline:][bcombatwielding] | Single |
 
 [bcombat]: #"Active with Better Combat installed"
+[bcombatwielding]: #"Dual-wielding only applies with Better Combat installed"

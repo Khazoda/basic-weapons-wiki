@@ -3,75 +3,76 @@
 !!! example annotate inline end ""
 
     === "Wooden"
-        ![Wooden quarterstaff icon](../assets/weapons/wooden_quarterstaff.png)
+         <center>![Wooden quarterstaff icon](../assets/weapons/wooden_quarterstaff.png)
 
-        | Damage                                          | 2          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.7        |
-        | Reach [:material-information-outline:][bcombat] | 3.25       |
-        | Durability                                      | 59         |
-        | Special                                         | Sweeping   |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                                     | 2        |
+        | ---------------------------------------------------------- | -------- |
+        | Speed                                                      | 1.7      |
+        | Reach [:material-information-outline:][bcombat]            | 3.25     |
+        | Durability                                                 | 59       |
+        | Special                                                    | Sweeping |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual     |
 
 
     === "Stone"
 
-        ![Stone quarterstaff icon](../assets/weapons/stone_quarterstaff.png)
+         <center>![Stone quarterstaff icon](../assets/weapons/stone_quarterstaff.png)
 
-        | Damage                                          | 3          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.7        |
-        | Reach [:material-information-outline:][bcombat] | 3.25       |
-        | Durability                                      | 131        |
-        | Special                                         | Sweeping   |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                                     | 3        |
+        | ---------------------------------------------------------- | -------- |
+        | Speed                                                      | 1.7      |
+        | Reach [:material-information-outline:][bcombat]            | 3.25     |
+        | Durability                                                 | 131      |
+        | Special                                                    | Sweeping |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual     |
 
     === "Iron"
 
-        ![Iron quarterstaff icon](../assets/weapons/iron_quarterstaff.png)
+         <center>![Iron quarterstaff icon](../assets/weapons/iron_quarterstaff.png)
 
-        | Damage                                          | 4          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.7        |
-        | Reach [:material-information-outline:][bcombat] | 3.25       |
-        | Durability                                      | 250        |
-        | Special                                         | Sweeping   |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                                     | 4        |
+        | ---------------------------------------------------------- | -------- |
+        | Speed                                                      | 1.7      |
+        | Reach [:material-information-outline:][bcombat]            | 3.25     |
+        | Durability                                                 | 250      |
+        | Special                                                    | Sweeping |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual     |
 
     === "Golden"
 
-        ![Golden quarterstaff icon](../assets/weapons/golden_quarterstaff.png)
+         <center>![Golden quarterstaff icon](../assets/weapons/golden_quarterstaff.png)
 
-        | Damage                                          | 2          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.7        |
-        | Reach [:material-information-outline:][bcombat] | 3.25       |
-        | Durability                                      | 32         |
-        | Special                                         | Sweeping   |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                                     | 2        |
+        | ---------------------------------------------------------- | -------- |
+        | Speed                                                      | 1.7      |
+        | Reach [:material-information-outline:][bcombat]            | 3.25     |
+        | Durability                                                 | 32       |
+        | Special                                                    | Sweeping |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual     |
 
     === "Diamond"
 
-        ![Diamond quarterstaff icon](../assets/weapons/diamond_quarterstaff.png)
+         <center>![Diamond quarterstaff icon](../assets/weapons/diamond_quarterstaff.png)
 
-        | Damage                                          | 5          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.7        |
-        | Reach [:material-information-outline:][bcombat] | 3.25       |
-        | Durability                                      | 1561       |
-        | Special                                         | Sweeping   |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                                     | 5        |
+        | ---------------------------------------------------------- | -------- |
+        | Speed                                                      | 1.7      |
+        | Reach [:material-information-outline:][bcombat]            | 3.25     |
+        | Durability                                                 | 1561     |
+        | Special                                                    | Sweeping |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual     |
 
     === "Netherite"
 
-        ![Netherite quarterstaff icon](../assets/weapons/netherite_quarterstaff.png)
+         <center>![Netherite quarterstaff icon](../assets/weapons/netherite_quarterstaff.png)
 
-        | Damage                                          | 6          |
-        | ----------------------------------------------- | ---------- |
-        | Speed                                           | 1.7        |
-        | Reach [:material-information-outline:][bcombat] | 3.25       |
-        | Durability                                      | 2031       |
-        | Special                                         | Sweeping   |
-        | Grip [:material-information-outline:][bcombat]  | Two-handed |
+        | Damage                                                     | 6        |
+        | ---------------------------------------------------------- | -------- |
+        | Speed                                                      | 1.7      |
+        | Reach [:material-information-outline:][bcombat]            | 3.25     |
+        | Durability                                                 | 2031     |
+        | Special                                                    | Sweeping |
+        | Wielding [:material-information-outline:][bcombatwielding] | Dual     |
 
 [bcombat]: #"Active with Better Combat installed"
+[bcombatwielding]: #"Dual-wielding only applies with Better Combat installed"
