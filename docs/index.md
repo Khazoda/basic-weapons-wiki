@@ -15,3 +15,5 @@ Basic Weapons adds 5 new weapons: <br/> [Dagger](/weapons/dagger) | [Hammer](/we
 - `Spear` - Medium damage, medium attack speed. This weapon is for those who like to keep their enemies at further than arm's reach. As long as [Better Combat](https://modrinth.com/mod/better-combat) is installed, the spear will be able to attack enemies around 4 blocks away from you - much further than standard weapons!
 
 ## Better Combat Integration
+
+Basic Weapons works as a standalone mod, but really shines when paired with [Better Combat](https://modrinth.com/mod/better-combat). Better Combat overhauls Minecraft's combat system, adding fresh new animations for each weapon & enabling the spear to hit targets further away.
