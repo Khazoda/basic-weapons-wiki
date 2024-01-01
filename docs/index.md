@@ -4,7 +4,7 @@ Vanilla Minecraft boasts two distinct melee weapons, the [sword](https://minecra
 
 ## What weapons are there?
 
-Basic Weapons adds 5 new weapons: <br/> [Dagger](/weapons/dagger) | [Hammer](/weapons/hammer) | [Club](/weapons/club) | [Quarterstaff](/weapons/quarterstaff) | [Spear](/weapons/spear)
+Basic Weapons adds 5 new weapons: <br/> [Dagger](weapons/dagger.md) | [Hammer](weapons/hammer.md) | [Club](weapons/club.md) | [Quarterstaff](weapons/quarterstaff.md) | [Spear](weapons/spear.md)
 
 ## Which weapon should I use?
 
