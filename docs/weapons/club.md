@@ -87,3 +87,7 @@ The club is a one-handed melee weapon with <span style="color:mediumseagreen">hi
 ![Club Recipe Alternate](../assets/recipes/recipe_club_alt.png){ width="420" }
 
 In addition to crafting, the club can be found in loot chests across the overworld, nether and end.
+
+## Demonstration
+
+![Club Demonstration](../assets/gifs/club.gif){ loading=lazy .demo-gif }

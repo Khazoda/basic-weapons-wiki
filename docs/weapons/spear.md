@@ -86,3 +86,7 @@ The spear is a cheap two-handed melee weapon with <span style="color:navajowhite
 ![Spear Recipe](../assets/recipes/recipe_spear.png){ width="420" }
 
 In addition to crafting, the spear can be found in loot chests across the overworld, nether and end.
+
+## Demonstration
+
+![Spear Demonstration](../assets/gifs/spear.gif){ loading=lazy .demo-gif }

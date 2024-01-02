@@ -89,4 +89,4 @@ In addition to crafting, the dagger can be found in loot chests across the overw
 
 ## Demonstration
 
-![Dagger Demonstration](../assets/gifs/dagger.gif){ .demo-gif }
+![Dagger Demonstration](../assets/gifs/dagger.gif){ loading=lazy .demo-gif }
