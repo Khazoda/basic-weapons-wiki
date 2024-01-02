@@ -76,3 +76,14 @@
 
 [bcombat]: #"Active with Better Combat installed"
 [bcombatwielding]: #"Dual-wielding only applies with Better Combat installed"
+
+:fontawesome-solid-bolt: Slow Enemies
+
+The club is a one-handed melee weapon with <span style="color:mediumseagreen">high damage</span> and <span style="color:salmon">low attack speed.</span>
+
+## Obtaining
+
+![Club Recipe](assets/../../assets/recipes/recipe_club.png){ width="420" }
+![Club Recipe Alternate](assets/../../assets/recipes/recipe_club_alt.png){ width="420" }
+
+In addition to crafting, the club can be found in loot chests across the overworld, nether and end.

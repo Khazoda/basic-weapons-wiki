@@ -76,3 +76,13 @@
 
 [bcombat]: #"Active with Better Combat installed"
 [bcombatwielding]: #"Dual-wielding only applies with Better Combat installed"
+
+:fontawesome-solid-bolt: Long Reach
+
+The spear is a cheap two-handed melee weapon with <span style="color:navajowhite">medium damage</span> and <span style="color:navajowhite">medium attack speed.</span>
+
+## Obtaining
+
+![Spear Recipe](assets/../../assets/recipes/recipe_spear.png){ width="420" }
+
+In addition to crafting, the spear can be found in loot chests across the overworld, nether and end.

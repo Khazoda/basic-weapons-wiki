@@ -76,3 +76,13 @@
 
 [bcombat]: #"Active with Better Combat installed"
 [bcombatwielding]: #"Dual-wielding only applies with Better Combat installed"
+
+:fontawesome-solid-bolt: Huge Damage, Fling Enemies
+
+The hammer is an expensive one-handed melee weapon with <span style="color:mediumseagreen">very high damage</span> and <span style="color:salmon">very low attack speed.</span>
+
+## Obtaining
+
+![Hammer Recipe](assets/../../assets/recipes/recipe_hammer.png){ width="420" }
+
+In addition to crafting, the hammer can be found in loot chests across the overworld, nether and end.

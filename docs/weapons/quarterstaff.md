@@ -76,3 +76,13 @@
 
 [bcombat]: #"Active with Better Combat installed"
 [bcombatwielding]: #"Dual-wielding only applies with Better Combat installed"
+
+:fontawesome-solid-bolt: Crowd Control
+
+The quarterstaff is a cheap two-handed melee weapon with <span style="color:salmon">low damage</span> and <span style="color:navajowhite">medium attack speed.</span>
+
+## Obtaining
+
+![Quarterstaff Recipe](assets/../../assets/recipes/recipe_quarterstaff.png){ width="420" }
+
+In addition to crafting, the quarterstaff can be found in loot chests across the overworld, nether and end.

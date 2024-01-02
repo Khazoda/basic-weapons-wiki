@@ -76,3 +76,13 @@
 
 [bcombat]: #"Active with Better Combat installed"
 [bcombatwielding]: #"Dual-wielding only applies with Better Combat installed"
+
+:fontawesome-solid-bolt: Quick Attacks
+
+The dagger is a cheap one-handed melee weapon with <span style="color:salmon">low damage</span> and <span style="color:mediumseagreen">high attack speed.</span> Like the vanilla sword, the dagger can also cut through cobwebs.
+
+## Obtaining
+
+![Dagger Recipe](assets/../../assets/recipes/recipe_dagger.png){ width="420" }
+
+In addition to crafting, the dagger can be found in loot chests across the overworld, nether and end.
