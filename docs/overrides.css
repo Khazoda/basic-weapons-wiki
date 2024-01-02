@@ -31,3 +31,9 @@
   align-items: center;
   gap: 1em;
 }
+
+.demo-gif {
+  border-radius: 5px;
+  -webkit-filter: drop-shadow(0px 0px 5px rgba(2, 2, 2, 0.5));
+  filter: drop-shadow(0px 0px 5px rgba(2, 2, 2, 0.5));
+}

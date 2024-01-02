@@ -83,6 +83,10 @@ The dagger is a cheap one-handed melee weapon with <span style="color:salmon">lo
 
 ## Obtaining
 
-![Dagger Recipe](assets/../../assets/recipes/recipe_dagger.png){ width="420" }
+![Dagger Recipe](../../assets/recipes/recipe_dagger.png){ width="420" }
 
 In addition to crafting, the dagger can be found in loot chests across the overworld, nether and end.
+
+## Demonstration
+
+![Dagger Demonstration](../assets/gifs/dagger.gif){ .demo-gif }

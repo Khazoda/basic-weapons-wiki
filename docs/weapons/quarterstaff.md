@@ -83,6 +83,6 @@ The quarterstaff is a cheap two-handed melee weapon with <span style="color:salm
 
 ## Obtaining
 
-![Quarterstaff Recipe](assets/../../assets/recipes/recipe_quarterstaff.png){ width="420" }
+![Quarterstaff Recipe](../assets/recipes/recipe_quarterstaff.png){ width="420" }
 
 In addition to crafting, the quarterstaff can be found in loot chests across the overworld, nether and end.

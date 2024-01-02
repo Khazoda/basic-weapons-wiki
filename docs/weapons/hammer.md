@@ -83,6 +83,6 @@ The hammer is an expensive one-handed melee weapon with <span style="color:mediu
 
 ## Obtaining
 
-![Hammer Recipe](assets/../../assets/recipes/recipe_hammer.png){ width="420" }
+![Hammer Recipe](../assets/recipes/recipe_hammer.png){ width="420" }
 
 In addition to crafting, the hammer can be found in loot chests across the overworld, nether and end.
