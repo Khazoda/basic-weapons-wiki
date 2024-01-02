@@ -89,4 +89,9 @@ In addition to crafting, the quarterstaff can be found in loot chests across the
 
 ## Demonstration
 
+<figure markdown>
+
 ![Quarterstaff Demonstration](../assets/gifs/quarterstaff.gif){ loading=lazy .demo-gif }
+
+  <figcaption><a href="https://modrinth.com/datapack/hit-the-dummy">Link to target dummy mod</figcaption>
+</figure>

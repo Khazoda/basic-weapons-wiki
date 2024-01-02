@@ -90,4 +90,9 @@ In addition to crafting, the club can be found in loot chests across the overwor
 
 ## Demonstration
 
+<figure markdown>
+
 ![Club Demonstration](../assets/gifs/club.gif){ loading=lazy .demo-gif }
+
+  <figcaption><a href="https://modrinth.com/datapack/hit-the-dummy">Link to target dummy mod</figcaption>
+</figure>
