@@ -2,6 +2,9 @@
 
 :octicons-bug-24: If you have ideas, suggestions, or bugs to report, please create an issue in the [GitHub repository](https://github.com/Khazoda/basic-weapons/issues/new).
 
+:material-earth: Do you speak multiple languages? Basic Weapons is always looking for community translations to make the mod as accessible as possible. [Start Translating](https://poeditor.com/join/project/vW0G3i42PX)
+
+
 :material-brain: There are long term plans for datapack-driven modular weapon support. This would enable simplistic weapon addition without requiring java knowledge, but this plan is still in its infancy.
 
 ## How to Contact
